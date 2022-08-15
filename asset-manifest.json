@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ryuknights/static/css/main.073c9b0a.css",
+    "main.js": "/ryuknights/static/js/main.a91e0eba.js",
+    "index.html": "/ryuknights/index.html",
+    "main.073c9b0a.css.map": "/ryuknights/static/css/main.073c9b0a.css.map",
+    "main.a91e0eba.js.map": "/ryuknights/static/js/main.a91e0eba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a91e0eba.js"
+  ]
+}
